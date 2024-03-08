@@ -2,36 +2,36 @@
 
 The program, when run, requires many parameters. The first must be the username, and the second must be the password. The others, which will be toppings, may be put in any order.
 
-Sauces:
-Red Sauce - rs
-Spicy Calabrian Red Sauce - scrc
-White Sauce - ws
-BBQ Sauce - bbq
-No sauce - ns
+Sauces:  
+Red Sauce - rs  
+Spicy Calabrian Red Sauce - scrc  
+White Sauce - ws  
+BBQ Sauce - bbq  
+No sauce - ns  
 
-Cheeses:
-Dairy-Free Cheese - df
-Mozzarella - m
-Parmesan - p
-No cheese - nc
+Cheeses:  
+Dairy-Free Cheese - df  
+Mozzarella - m  
+Parmesan - p  
+No cheese - nc  
 
-Meats:
-Bacon - b
-Pepperoni - pep
-Salami - s
-Mild Sausage - ms
-Ground Beef - gb
-Italian Sausage - is
+Meats:  
+Bacon - b  
+Pepperoni - pep  
+Salami - s  
+Mild Sausage - ms  
+Ground Beef - gb  
+Italian Sausage - is  
 
-Other Toppings:
-Bell Peppers - bp
-Jalapenos - j
-Mushrooms - mush
-Oregano - o
-Pineapple - pine
-Salt and Pepper - sap
-Tomatoes - t
-Spinach - spin
+Other Toppings:  
+Bell Peppers - bp  
+Jalapenos - j  
+Mushrooms - mush  
+Oregano - o  
+Pineapple - pine  
+Salt and Pepper - sap  
+Tomatoes - t  
+Spinach - spin  
 
 Finishing Sauces:
 Ranch - r
