@@ -1,6 +1,8 @@
 #MODpizza program:
 
-The program, when run, requires many parameters. The first must be the username, and the second must be the password. The others, which will be toppings, may be put in any order.
+MODpizza.py, when run, requires many parameters. The first must be the username, and the second must be the password. The others, which will be toppings, may be put in any order.
+
+MODpizzaV2.py, when run, is the same as V1, except the username and password are hard-coded and do not need to be input via command-line.
 
 Sauces:  
 Red Sauce - rs  
